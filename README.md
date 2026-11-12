@@ -34,7 +34,7 @@ Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geli�
 
 ---
 
-### 📊 GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=BasicOS2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
