@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Selam, ben Ata 👋</h1>
+  <h1>Selam, ben Ata</h1>
   <p><b>FOSS Geliştiricisi • Android Modder • Sistem & Donanım Meraklısı</b></p>
 
   <p>
@@ -14,17 +14,17 @@
 
 ---
 
-### 🧑‍💻 Hakkımda
+### Hakkımda
 
 Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geliştirmeyi ve Android cihazların sınırlarını zorlamayı seviyorum. Günlük hayatım ise klasik üçgende akıp gidiyor: **Ev ➔ Otobüs ➔ Okul.**
 
-- 📱 **Günlük Cihazım:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port)*
-- 🛠️ **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve açık kaynaklı yazılımlar.
-- 🌍 **Topluluk:** XDA Developers üzerinde aktif olarak modlar ve portlar paylaşıyorum.
+-  **Günlük Cihazım:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port)*
+- **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve açık kaynaklı yazılımlar.
+- **Topluluk:** XDA Developers üzerinde aktif olarak modlar paylaşıyorum.
 
 ---
 
-### ⚙️ Nelerle Uğraşıyorum?
+### Nelerle Uğraşıyorum?
 
 | Alan | Detaylar |
 | :--- | :--- |
