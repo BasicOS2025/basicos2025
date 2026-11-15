@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Selam, ben Ata</h1>
-  <p><b>FOSS Geliştiricisi • Android Modder • Sistem & Donanım Meraklısı</b></p>
+  <p><b>Bişiler yapıyom bende bilmiyom çalışırsa çalışıyo çalışmazsa çalışmıyo</b></p>
 
   <p>
     <a href="https://xdaforums.com/m/500knots.13030875/">
@@ -16,7 +16,7 @@
 
 ### Hakkımda
 
-Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geliştirmeyi ve Android cihazların sınırlarını zorlamayı seviyorum. Günlük hayatım ise klasik üçgende akıp gidiyor: **Ev ➔ Otobüs ➔ Okul.**
+Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geliştirmeyi ve Android cihazların sınırlarını zorlamayı seviyom. Günlük hayatım ise klasik üçgende akıp gidiyo: **Ev  Otobüs  Okul.**
 
 -  **Günlük Cihazım:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port)*
 - **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve açık kaynaklı yazılımlar.
