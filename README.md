@@ -9,7 +9,9 @@
     <a href="https://www.instagram.com/atakose4/">
       <img src="https://img.shields.io/badge/Instagram-@atakose4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <a href="https//:github.com/BasicOS2025/">
     <img src="https://komarev.com/ghpvc/?username=BasicOS2025&style=flat-square&color=6366f1" alt="Profile views"></div>
+    </a>
   </p>
 </div>
 
