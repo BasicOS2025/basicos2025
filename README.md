@@ -40,3 +40,4 @@ Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geli�
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=BasicOS2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BasicOS2025&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+<img src="https://komarev.com/ghpvc/?username=BasicOS2025&style=flat-square&color=6366f1" alt="Profile views"></div>
