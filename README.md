@@ -19,7 +19,7 @@
 Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geliştirmeyi ve Android cihazların sınırlarını zorlamayı seviyom.
 
 -  **Mainim:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port, gururla.)*
-- **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve açık kaynaklı yazılımlar.
+- **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve FOSS yazılımlar.
 - **Topluluk:** XDA Developers üzerinde aktif olarak modlar paylaşıyom.
 
 ---
