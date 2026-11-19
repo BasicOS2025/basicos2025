@@ -18,13 +18,13 @@
 
 Açık kaynak (FOSS) ekosistemine katkıda bulunmayı, sıfırdan araçlar geliştirmeyi ve Android cihazların sınırlarını zorlamayı seviyom. Günlük hayatım ise klasik üçgende akıp gidiyo: **Ev  Otobüs  Okul.**
 
--  **Günlük Cihazım:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port)*
+-  **Mainim:** Samsung Galaxy S20 Ultra *(One UI 8.5 Port, gururla.)*
 - **İlgi Alanlarım:** Custom ROM geliştirme, sistem portları, Linux ve açık kaynaklı yazılımlar.
-- **Topluluk:** XDA Developers üzerinde aktif olarak modlar paylaşıyorum.
+- **Topluluk:** XDA Developers üzerinde aktif olarak modlar paylaşıyom.
 
 ---
 
-### Nelerle Uğraşıyorum?
+### Nelerle Uğraşıyom?
 
 | Alan | Detaylar |
 | :--- | :--- |
